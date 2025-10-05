@@ -7,6 +7,8 @@ sites:
     url: https://czqm.ca
   - name: Overseer
     url: https://overseer.czqm.ca
+  - name: Worker
+    url: http://worker.czqm.ca/cron-health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,14 +16,18 @@ status-website:
   cname: status.czqm.ca
   # baseUrl: /your-repo-name
   logoUrl: https://czqm.ca/_app/immutable/assets/CZQM-White.P2MAZOQj.svg
+  favicon: https://czqm.ca/favicon.ico
   name: CZQM Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status of the CZQM processes that run the FIRs tech"
+  introMessage: See below information about our processes and their current status
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/czqm-fir/core
+
+assignees:
+  - jackkoskie
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
