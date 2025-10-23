@@ -1,7 +1,7 @@
 url: https://training.czqm.ca
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2025-10-22T23:10:54.995Z
+status: down
+code: 502
+responseTime: 206
+lastUpdated: 2025-10-23T23:11:24.479Z
 startTime: 2025-10-05T18:55:42.215Z
 generator: Upptime <https://github.com/upptime/upptime>
