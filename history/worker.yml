@@ -1,7 +1,7 @@
 url: http://worker.czqm.ca/cron-health
-status: down
-code: 530
-responseTime: 68
-lastUpdated: 2025-12-27T14:45:34.122Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2025-12-27T14:51:40.837Z
 startTime: 2025-10-05T05:02:10.868Z
 generator: Upptime <https://github.com/upptime/upptime>
