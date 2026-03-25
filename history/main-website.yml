@@ -1,7 +1,7 @@
 url: https://czqm.ca
-status: up
-code: 200
-responseTime: 1462
-lastUpdated: 2026-03-24T23:23:56.821Z
+status: down
+code: 500
+responseTime: 500
+lastUpdated: 2026-03-25T18:34:50.187Z
 startTime: 2025-10-05T00:46:57.447Z
 generator: Upptime <https://github.com/upptime/upptime>
