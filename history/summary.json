@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1073,
-    "timeDay": 194,
-    "timeWeek": 316,
-    "timeMonth": 445,
+    "timeDay": 0,
+    "timeWeek": 286,
+    "timeMonth": 425,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-10-14": 12,
@@ -34,17 +34,17 @@
     "url": "https://overseer.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/overseer.czqm.ca.ico",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.57%",
-    "time": 329,
-    "timeDay": 129,
-    "timeWeek": 257,
-    "timeMonth": 218,
-    "timeYear": 329,
+    "time": 328,
+    "timeDay": 24,
+    "timeWeek": 237,
+    "timeMonth": 219,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-10-08": 9,
       "2025-10-09": 95,
@@ -67,7 +67,8 @@
       "2026-03-03": 52,
       "2026-04-29": 235,
       "2026-04-28": 109,
-      "2026-05-18": 97
+      "2026-05-18": 97,
+      "2026-05-28": 1
     }
   },
   {
@@ -75,17 +76,17 @@
     "url": "http://worker.czqm.ca/cron-health",
     "icon": "https://icons.duckduckgo.com/ip3/worker.czqm.ca.ico",
     "slug": "worker",
-    "status": "up",
-    "uptime": "96.47%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "96.47%",
-    "time": 261,
-    "timeDay": 133,
-    "timeWeek": 191,
-    "timeMonth": 225,
-    "timeYear": 261,
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "96.48%",
+    "time": 260,
+    "timeDay": 27,
+    "timeWeek": 169,
+    "timeMonth": 227,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2025-10-09": 95,
       "2025-10-08": 1,
@@ -114,7 +115,8 @@
       "2026-03-03": 52,
       "2026-04-29": 235,
       "2026-04-28": 109,
-      "2026-05-18": 97
+      "2026-05-18": 97,
+      "2026-05-28": 0
     }
   },
   {
@@ -122,17 +124,17 @@
     "url": "https://training.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/training.czqm.ca.ico",
     "slug": "training-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.11%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "98.99%",
-    "time": 1340,
-    "timeDay": 758,
-    "timeWeek": 981,
-    "timeMonth": 1136,
-    "timeYear": 1340,
+    "time": 1336,
+    "timeDay": 30,
+    "timeWeek": 875,
+    "timeMonth": 1164,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-10-09": 95,
       "2025-10-08": 1,
@@ -157,7 +159,8 @@
       "2026-04-29": 1023,
       "2026-04-28": 109,
       "2026-05-12": 806,
-      "2026-05-18": 202
+      "2026-05-18": 202,
+      "2026-05-28": 0
     }
   }
 ]
