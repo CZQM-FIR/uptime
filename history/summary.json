@@ -34,16 +34,16 @@
     "url": "https://overseer.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/overseer.czqm.ca.ico",
     "slug": "overseer",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "77.50%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "64.40%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.39%",
     "time": 325,
-    "timeDay": 44,
-    "timeWeek": 177,
-    "timeMonth": 207,
+    "timeDay": 78,
+    "timeWeek": 174,
+    "timeMonth": 205,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2025-10-08": 9,
@@ -70,7 +70,7 @@
       "2026-05-18": 97,
       "2026-05-29": 291,
       "2026-05-28": 5,
-      "2026-05-30": 145
+      "2026-05-30": 334
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "http://worker.czqm.ca/cron-health",
     "icon": "https://icons.duckduckgo.com/ip3/worker.czqm.ca.ico",
     "slug": "worker",
-    "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "77.52%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "96.37%",
-    "time": 258,
-    "timeDay": 41,
-    "timeWeek": 132,
-    "timeMonth": 197,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "96.32%",
+    "uptimeDay": "64.41%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "96.32%",
+    "time": 260,
+    "timeDay": 331,
+    "timeWeek": 203,
+    "timeMonth": 217,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2025-10-09": 95,
       "2025-10-08": 1,
@@ -120,7 +120,7 @@
       "2026-05-18": 97,
       "2026-05-29": 291,
       "2026-05-28": 5,
-      "2026-05-30": 145
+      "2026-05-30": 334
     }
   },
   {
@@ -128,16 +128,16 @@
     "url": "https://training.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/training.czqm.ca.ico",
     "slug": "training-lms",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "77.53%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "98.87%",
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "64.42%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "98.82%",
     "time": 1325,
-    "timeDay": 82,
-    "timeWeek": 625,
-    "timeMonth": 1064,
+    "timeDay": 454,
+    "timeWeek": 677,
+    "timeMonth": 1068,
     "timeYear": 1325,
     "dailyMinutesDown": {
       "2025-10-09": 95,
@@ -166,7 +166,7 @@
       "2026-05-18": 202,
       "2026-05-29": 290,
       "2026-05-28": 5,
-      "2026-05-30": 145
+      "2026-05-30": 334
     }
   }
 ]
