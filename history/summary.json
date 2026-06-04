@@ -34,17 +34,17 @@
     "url": "https://overseer.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/overseer.czqm.ca.ico",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.76%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.75%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.40%",
-    "time": 324,
-    "timeDay": 162,
-    "timeWeek": 165,
-    "timeMonth": 208,
-    "timeYear": 324,
+    "time": 323,
+    "timeDay": 94,
+    "timeWeek": 153,
+    "timeMonth": 203,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-10-08": 9,
       "2025-10-09": 95,
@@ -70,7 +70,8 @@
       "2026-05-18": 97,
       "2026-05-29": 291,
       "2026-05-28": 5,
-      "2026-05-30": 334
+      "2026-05-30": 334,
+      "2026-06-04": 1
     }
   },
   {
@@ -78,17 +79,17 @@
     "url": "http://worker.czqm.ca/cron-health",
     "icon": "https://icons.duckduckgo.com/ip3/worker.czqm.ca.ico",
     "slug": "worker",
-    "status": "up",
+    "status": "down",
     "uptime": "96.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "93.76%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "96.39%",
-    "time": 259,
-    "timeDay": 174,
-    "timeWeek": 213,
-    "timeMonth": 211,
-    "timeYear": 259,
+    "time": 258,
+    "timeDay": 91,
+    "timeWeek": 196,
+    "timeMonth": 205,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-10-09": 95,
       "2025-10-08": 1,
@@ -120,7 +121,8 @@
       "2026-05-18": 97,
       "2026-05-29": 291,
       "2026-05-28": 5,
-      "2026-05-30": 334
+      "2026-05-30": 334,
+      "2026-06-04": 0
     }
   },
   {
