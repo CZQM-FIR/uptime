@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/worker.czqm.ca.ico",
     "slug": "worker",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.48%",
     "time": 257,
     "timeDay": 142,
     "timeWeek": 197,
@@ -130,17 +130,17 @@
     "url": "https://training.czqm.ca",
     "icon": "https://icons.duckduckgo.com/ip3/training.czqm.ca.ico",
     "slug": "training-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "98.89%",
-    "time": 1310,
-    "timeDay": 630,
-    "timeWeek": 984,
-    "timeMonth": 907,
-    "timeYear": 1310,
+    "time": 1306,
+    "timeDay": 328,
+    "timeWeek": 864,
+    "timeMonth": 884,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-10-09": 95,
       "2025-10-08": 1,
@@ -168,7 +168,8 @@
       "2026-05-18": 202,
       "2026-05-29": 290,
       "2026-05-28": 5,
-      "2026-05-30": 334
+      "2026-05-30": 334,
+      "2026-06-14": 0
     }
   }
 ]
