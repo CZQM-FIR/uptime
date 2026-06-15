@@ -133,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.czqm.ca.ico",
     "slug": "training-lms",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "81.16%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.80%",
+    "uptimeDay": "77.95%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "98.80%",
     "time": 1302,
     "timeDay": 26,
     "timeWeek": 752,
@@ -171,7 +171,7 @@
       "2026-05-29": 290,
       "2026-05-28": 5,
       "2026-05-30": 334,
-      "2026-06-15": 127,
+      "2026-06-15": 174,
       "2026-06-14": 144
     }
   }
